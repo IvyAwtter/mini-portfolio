@@ -1,7 +1,7 @@
 html {
   scroll-behavior: smooth;
 }
-
+/* ===== BODY ===== */
 body {
     background: linear-gradient(to bottom, #040b2b, #172b9b, #040b2b);
     padding: 140px 20px 140px;
